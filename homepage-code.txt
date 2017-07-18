@@ -1,0 +1,27 @@
+<div class="container">
+<div class="row">
+  <div class="col-md-12">
+    [2jslideshow id="86"]
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-6" style="margin-top:30px;">
+    <h3 style="color: #ff5722; width: 100%; text-align: center; padding: 0px; line-height: 1.5;">Thank you for choosing Concept home appliance</h3>
+    <p style="color: black; margin: 0 auto; width: 300px; text-align: center; margin-bottom: 30px;">To make sure you get the best care if repaire should be necessary,Concept offers comprehensive service for your appliance,in the high quality you have come to expect.</p>
+  </div>
+  <div class="col-md-3" style="padding-right:0px;">
+    <img class="image-responsive" style="height: 100%;width:100%;" src="http://stoneappliance.co.nz/wp-content/uploads/2016/11/home_one.jpg"/>
+  </div>
+  <div class="col-md-3" style="text-align:center;">
+    <p style="margin-top:45%; font-weight: bold; font-size: 32px; color: #ff5722;">SERVICE</p>
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-9" style="padding-left:0px;padding-right:0px;">
+    <img class="image-responsive aligncenter" style="width: 100%;" src="http://stoneappliance.co.nz/wp-content/uploads/2016/11/home_two.jpg"/>
+  </div>
+  <div class="col-md-3" style="background-color:black;text-align:center;height:685px;padding-top:130px;">
+    <p><a style="color: white; font-size: 24px;" href="http://stoneappliance.co.nz/?cat=2">SHOP</a><br><a style="color: white; font-size: 24px; display: inline-block; margin: 183.5px 0px;" href="http://stoneappliance.co.nz/?cat=8">SUPPORT</a><br><a style="color: white; font-size: 24px;" href="http://stoneappliance.co.nz/?page_id=50">CONTACT US</a></p>
+  </div>
+</div>
+</div>
